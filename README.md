@@ -73,8 +73,9 @@ These results validate the effectiveness of the model and the scalability of the
 
 ## Contributors
 - **Sarah Altalhi** – *Data Scientist*  
-  - Led data preprocessing, CNN model development, and experimental analysis.  
-  - Monitored environment setup, and scalability testing.  
+  - Led data preprocessing, CNN model design and training, and experimental analysis.  
+  - Monitored environment setup, scalability testing, and documented results.  
+  - Contributed to project reports and knowledge sharing across the team. 
 
 - **Choonsik [Role: Project Manager/ MLOps Engineer]**  
   - Implemented Airflow pipelines, CI/CD workflows, and containerization.
@@ -84,3 +85,8 @@ These results validate the effectiveness of the model and the scalability of the
   - Managed the deployment environment.
   - Designed automated retraining strategies and contributed to MLOps integration.
 
+
+---
+
+## 📄 Additional Documentation  
+- [Project Journey Portfolio](docs/Project_Journey_Portfolio_Sarah_Altalhi.pdf) — A detailed account of the project development process and individual contributions.
