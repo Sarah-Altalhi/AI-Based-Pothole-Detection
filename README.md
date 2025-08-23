@@ -1,5 +1,14 @@
 # AI-Based Pothole Detection with MLOps Pipeline 
----
+
+
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-vision-brightgreen?style=flat-square&logo=opencv)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNNs-orange?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Detection-lightgrey?style=flat-square)
+
+
+
 ## Overview 🚧
 This project focuses on developing and deploying an **AI-based pothole detection system** using Convolutional Neural Networks (CNNs) integrated with a robust MLOps pipeline. The solution aims to enhance road safety by automatically identifying potholes from images and streamlining the deployment process through **CI/CD workflows, Airflow pipelines, and automated retraining**.
 
